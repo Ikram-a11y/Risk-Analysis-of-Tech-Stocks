@@ -1,13 +1,14 @@
 Risk Analysis of Tech Stocks
 
-This project focuses on the analysis of risk and return of major technology stocks. Using historical stock data, the analysis explores key financial metrics such as volatility, Value at Risk (VaR), and expected returns. The repository includes:
+This project focuses on the analysis of risk and return of major technology stocks. Using historical stock data, the analysis explores key financial metrics such as volatility, Value at Risk (VaR), and expected returns.
+Specifically, you learned:
 
-Data extraction and cleaning from publicly available sources
+How to load stock market data from the YAHOO Finance website using yfinance.
 
-Risk metrics calculation (VaR, volatility, Sharpe ratio)
+How to explore and visualize time-series data using Pandas, Matplotlib, and Seaborn.
 
-Visualization of stock performance trends and risk profiles
+How to measure the correlation between stocks.
 
-Application of machine learning models for risk prediction
+How to measure the risk of investing in a particular stock.
 
 Tools: Python, pandas, NumPy, Matplotlib, Scikit-learn.
